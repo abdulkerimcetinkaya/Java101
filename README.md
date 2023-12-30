@@ -1,5 +1,6 @@
 # Java101
 Başlangıç Seviye Java ile Backend Web Development Patikası Java 101 Eğitimi
+---------------------------------------------------------------------------
 
 Pratik - Not Ortalaması Hesaplayan Program
 
@@ -14,6 +15,7 @@ Pratik - Dairenin Alanını ve Çevresini Bulan Program
 Ödev - Vücut Kitle İndeksi Hesaplayan Program
 
 Ödev - Manav Kasa Programı
+----------------------------------------------------
 
 Pratik - Hesap Makinesi
 
@@ -32,3 +34,4 @@ Pratik - Burç Bulan Program
 Ödev - Çin Zodyağı Hesaplama
 
 Ödev - Artık Yıl Hesaplama
+---------------------------------
