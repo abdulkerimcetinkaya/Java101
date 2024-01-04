@@ -85,3 +85,15 @@ Pratik - Gelişmiş Hesap Makinesi
 -------------------------------------
 
 Pratik - Öğrenci Bilgi Sistemi
+
+Pratik - Boks Oyunu
+
+Ödev - Maaş Hesaplayıcı
+
+-------------------------------
+
+Pratik - Dizideki Elemanların Ortalamasını Bulan Program
+
+Pratik - Dizideki Maksimum ve Minimum Değerleri Bulan Program
+
+Pratik - Çok Boyutlu Diziler ile A Harfi Yazdıran Program
